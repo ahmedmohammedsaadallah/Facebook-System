@@ -1,0 +1,26 @@
+D:\after-college\github_projects\Facebook-System\Debug\Facebook System.vcxproj.AssemblyReference.cache
+D:\after-college\github_projects\Facebook-System\Debug\Facebook System.vcxproj.SuggestedBindingRedirects.cache
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.AccountControl.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.AccountSettings.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.AccountShow.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.AccountsList.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.AllConversations.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.Chat1.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.ChatMessage.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.commentControl.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.ConversationLastMessage.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.Home.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.Login.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.Messenger.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.newsFeed.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.oneMessage.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.Post.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.Registered_sucsses.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.ReplyControl.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.SeeFriendship.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.SendMessage.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.UserProfile.resources
+D:\after-college\github_projects\Facebook-System\Debug\FacebookSystem.Users.resources
+D:\after-college\github_projects\Facebook-System\Debug\Facebook System.vcxproj.GenerateResource.cache
+D:\after-college\github_projects\Facebook-System\Debug\Facebook System.vcxproj.CopyComplete
+D:\after-college\github_projects\Facebook-System\Debug\Facebook System.exe
